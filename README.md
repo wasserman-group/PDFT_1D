@@ -1,2 +1,2 @@
 # PDFT_1D
-A MATLAB code of Partition-DFT, implemented on a one-dimensional real-space grid.
+A real-space implementation of Partition-DFT in MATLAB. This code is designed to calculate the ground-state properties of one-dimensional finite systems, e.g., linear hydrogen chains. 
